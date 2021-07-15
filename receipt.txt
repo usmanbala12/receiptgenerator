@@ -1,0 +1,13 @@
+---------------------------------
+     codegeek car repairs         
+---------------------------------
+       CUSTOMER DETAILS:       
+name;       sumayya
+Address;     unguwa uku
+Phone;      0230939221
+car Make; mercedes glc300  car model; 2021
+----------------------------------
+      service qoute details        
+parts charges; ---------3000000.0
+labor charges; ---------50000.0
+total charges  ---------3050000.0
